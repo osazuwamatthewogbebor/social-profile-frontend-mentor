@@ -24,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.https://raw.githubusercontent.com/osazuwamatthewogbebor/social-profile-frontend-mentor/main/design-screenshot.png)
+![social links screenshot](https://raw.githubusercontent.com/osazuwamatthewogbebor/social-profile-frontend-mentor/main/social-links-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/osazuwamatthewogbebor/social-profile-frontend-mentor
+- Live Site URL: https://osazuwamatthewogbebor.github.io/social-profile-frontend-mentor/
 
 ## My process
 
