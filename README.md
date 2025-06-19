@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![social links screenshot](https://raw.githubusercontent.com/osazuwamatthewogbebor/social-profile-frontend-mentor/main/social-links-screenshot.png)
+![social links screenshot](https://raw.githubusercontent.com/osazuwamatthewogbebor/social-profile-frontend-mentor/main/social-links-screenshot.PNG)
 
 
 ### Links
